@@ -72,7 +72,7 @@ class Stack {
 }
 ```
 
-### 单元测试
+### Jest 单元测试
 
 ```
 const Stack = require('./index.js')

@@ -1,4 +1,4 @@
-const Stack = require("./index.js")
+const Stack = require("./stack.js")
 
 describe("Test Stack", () => {
   let stack
